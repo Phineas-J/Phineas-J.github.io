@@ -1,0 +1,26 @@
+h1 {
+    text-align: center;
+}
+
+.tabletags {
+    color: aqua;
+}
+
+table {
+    width: 700px;
+
+}
+
+table, th, td {
+    margin: 0 auto;
+    border: 1px solid;
+}
+
+th {
+    background-color: pink;
+}
+
+span {
+   background-color: yellow;
+   font-family: font-family: "Lucida Console", Courier, monospace;
+}
